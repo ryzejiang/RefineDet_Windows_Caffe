@@ -1,9 +1,9 @@
 # RefineDet  Windows  Caffe  VisualStudio-15
 在 Windows10 VisualStudio-15 上配置成功，能够直接使用 Ubuntu 下训练好的模型进行估计，CPU和GPU均可。
 
-如果 `git clone` 较慢，也可以使用我的[百度网盘链接]https://pan.baidu.com/s/1qoRlrvlHdqcMtwwDKDVYLQ ，密码是 : 5xqg 。
+如果 `git clone` 较慢，也可以使用我的 [百度网盘链接](https://pan.baidu.com/s/1qoRlrvlHdqcMtwwDKDVYLQ)，密码是 : 5xqg 。
 
-**使用方法等用空了再补**
+==使用方法等用空了再补==
 
 ## Windows Setup
 ### Requirements
